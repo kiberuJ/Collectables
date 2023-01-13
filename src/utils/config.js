@@ -1,4 +1,5 @@
-const CONTRACT_NAME = process.env.CONTRACT_NAME || "collectables"; // line 1
+const CONTRACT_NAME =
+  process.env.CONTRACT_NAME || "collectables.kiberu.testnet"; // line 1
 
 function environment(env) {
   switch (env) {
