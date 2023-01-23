@@ -7,7 +7,24 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+#root {
+  background-color: #c53aae;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.qnty > div {
+  padding: 0;
+}
+
+#lsel {
+  width: 100%;
+  text-align: left;
+}
+
+select  {
+  width: 100%;
 }
