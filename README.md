@@ -4,7 +4,7 @@ Being able to coplete transaction conpletely without needing to trust third part
 
 This is a front end application that consumes [collactable-contract](https://github.com/kiberuJ/collectables-contract) smart contract build using near protocol.
 
-The live version can be found [here](https://kiberuj.github.io/Collectables/).
+#### The live version can be found [here](https://kiberuj.github.io/Collectables/).
 
 ## :package: Built With
 
