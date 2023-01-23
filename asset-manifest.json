@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/collectibles/static/css/main.db902be0.chunk.css",
+    "main.js": "/collectibles/static/js/main.0651f3ff.chunk.js",
+    "main.js.map": "/collectibles/static/js/main.0651f3ff.chunk.js.map",
+    "runtime-main.js": "/collectibles/static/js/runtime-main.3f24ad25.js",
+    "runtime-main.js.map": "/collectibles/static/js/runtime-main.3f24ad25.js.map",
+    "static/css/2.e799dcd5.chunk.css": "/collectibles/static/css/2.e799dcd5.chunk.css",
+    "static/js/2.e5af1857.chunk.js": "/collectibles/static/js/2.e5af1857.chunk.js",
+    "static/js/2.e5af1857.chunk.js.map": "/collectibles/static/js/2.e5af1857.chunk.js.map",
+    "static/js/3.b3cb11db.chunk.js": "/collectibles/static/js/3.b3cb11db.chunk.js",
+    "static/js/3.b3cb11db.chunk.js.map": "/collectibles/static/js/3.b3cb11db.chunk.js.map",
+    "index.html": "/collectibles/index.html",
+    "static/css/2.e799dcd5.chunk.css.map": "/collectibles/static/css/2.e799dcd5.chunk.css.map",
+    "static/css/main.db902be0.chunk.css.map": "/collectibles/static/css/main.db902be0.chunk.css.map",
+    "static/js/2.e5af1857.chunk.js.LICENSE.txt": "/collectibles/static/js/2.e5af1857.chunk.js.LICENSE.txt",
+    "static/media/1.6ed194a4.jpg": "/collectibles/static/media/1.6ed194a4.jpg",
+    "static/media/10.a07f2470.jpg": "/collectibles/static/media/10.a07f2470.jpg",
+    "static/media/2.e241ed6a.jpg": "/collectibles/static/media/2.e241ed6a.jpg",
+    "static/media/3.1f077723.jpg": "/collectibles/static/media/3.1f077723.jpg",
+    "static/media/4.13a2a923.jpg": "/collectibles/static/media/4.13a2a923.jpg",
+    "static/media/5.649e7cfb.jpg": "/collectibles/static/media/5.649e7cfb.jpg",
+    "static/media/6.227fc229.jpg": "/collectibles/static/media/6.227fc229.jpg",
+    "static/media/7.a9e67624.jpg": "/collectibles/static/media/7.a9e67624.jpg",
+    "static/media/8.d74629eb.jpg": "/collectibles/static/media/8.d74629eb.jpg",
+    "static/media/9.a07f2470.jpg": "/collectibles/static/media/9.a07f2470.jpg",
+    "static/media/bootstrap-icons.css": "/collectibles/static/media/bootstrap-icons.b2e5aab6.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f24ad25.js",
+    "static/css/2.e799dcd5.chunk.css",
+    "static/js/2.e5af1857.chunk.js",
+    "static/css/main.db902be0.chunk.css",
+    "static/js/main.0651f3ff.chunk.js"
+  ]
+}

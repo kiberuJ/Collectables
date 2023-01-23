@@ -1,0 +1,8 @@
+{
+  "short_name": "Collectables",
+  "name": "A simple web application that consumes collectables near smart contract",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
