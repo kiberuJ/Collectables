@@ -9,6 +9,7 @@ body {
 
 #root {
   background-color: #c53aae;
+  min-height: 100vh;
 }
 
 code {

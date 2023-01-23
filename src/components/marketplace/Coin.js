@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import PropTypes from "prop-types";
 import { utils } from "near-api-js";
 import { Card, Button, Col, Badge, Stack, Row } from "react-bootstrap";
+import { toast } from "react-toastify";
+import { NotificationError } from "../utils/Notifications";
 
 const Coin = ({ coin, buy, expunge, altImage }) => {
   const {
@@ -20,7 +22,11 @@ const Coin = ({ coin, buy, expunge, altImage }) => {
   const [amount, setAmount] = useState(1);
 
   const triggerBuy = () => {
-    buy(id, amount, price);
+    if (quantity <= 0) {
+      toast(<NotificationError text="Out of stock!!!. Check later :)." />);
+    } else {
+      buy(id, amount, price);
+    }
   };
 
   const removeEntry = () => {
