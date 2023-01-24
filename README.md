@@ -1,6 +1,6 @@
 # Collectables
 
-Being able to coplete transaction conpletely without needing to trust third parties comes in handy while purchasing old collectable items. Collectable application comes in handy by ensuring privacy and lack of censorship while buying your favorite old coins.
+Being able to complete transaction completely without needing to trust third parties comes in handy while purchasing old collectable items. Collectable application comes in handy by ensuring privacy and lack of censorship while buying your favorite old coins.
 
 This is a front end application that consumes [collactable-contract](https://github.com/kiberuJ/collectables-contract) smart contract build using near protocol.
 
