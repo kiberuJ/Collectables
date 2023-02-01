@@ -2,9 +2,10 @@
 
 Being able to complete transaction completely without needing to trust third parties comes in handy while purchasing old collectable items. Collectable application comes in handy by ensuring privacy and lack of censorship while buying your favorite old coins.
 
-This is a front end application that consumes [collactable-contract](https://github.com/kiberuJ/collectables-contract) smart contract build using near protocol.
+This is a front end application that consumes __[collactable-contract](https://github.com/kiberuJ/collectables-contract)__ smart contract build using near protocol.
 
 #### The live version can be found [here](https://kiberuj.github.io/Collectables/).
+#### The collactable-contract can be found [here](https://github.com/kiberuJ/collectables-contract).
 
 ## :package: Built With
 
